@@ -1,8 +1,9 @@
 ---
+title: # Portfolio
 layout: collection
-collection: portfolio # collection name
-entries_layout: list # list (default), grid
-show_excerpts: true # true (default), false
+permalink: /portfolio/
+collection: portfolio
+entries_layout: list
 sort_by: date # date (default), title or any metadata key added to the collection's documents
 sort_order: reverse # forward (default), reverse
 ---
