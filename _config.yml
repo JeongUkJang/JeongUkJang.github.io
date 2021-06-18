@@ -44,9 +44,9 @@ markdown: kramdown
 #   enable: true
 
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Noto Sans KR"
     weights: "400,400i,700,700i"
-  - name: "Lora"
+  - name: "Noto Sans KR"
     weights: "400,400i,700,700i"
 
 search_full_content: true
